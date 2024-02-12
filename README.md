@@ -55,3 +55,4 @@ This repository contains the ETL (Extract, Transform, Load) workflow for process
 ---
 
 Would you like me to help you draft the **DDL SQL scripts** for these tables so you can include them in a `/scripts` folder in your repository?
+

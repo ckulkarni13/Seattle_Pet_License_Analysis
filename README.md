@@ -51,3 +51,8 @@ During execution, a data type mismatch was identified in the `Zip_Code` field:
 The workflow achieved 100% data throughput:
 * **Total Rows Processed:** 42,526.
 * **Workflow Status:** Query executed successfully across both target environments.
+
+---
+
+### Images from Project -->
+![SQL Data Loading](https://github.com/ckulkarni13/Designing_Advanced_Data_Architectures_for_Business_Intelligence/blob/main/Seattle%20Pet%20License/mysql_loaded_Data.png?raw=true)

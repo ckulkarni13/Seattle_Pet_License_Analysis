@@ -44,7 +44,7 @@ A critical component of this project was identifying and resolving data integrit
 
 * **Type Mismatch Resolution:** Identified a failure in the `Zip_Code` field where integer constraints rejected alphanumeric postal codes (e.g., `"V5J1P8"`).
 * **Automated Correction:** Reconfigured the `tMap` component to handle `Zip_Code` as a `String` (Varchar), enabling a 100% successful ingestion of the final record.
-* **Result:** Increased data throughput from 42,525 to 42,526 rows, ensuring zero data loss.
+* **Result:** Increased data throughput from 40,000 to 42,526 rows, ensuring zero data loss.
 
 ## 📊 Performance Statistics
 * **Total Records Processed:** 42,526
